@@ -1,0 +1,23 @@
+{
+  "name": "santiBots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bci": "0.0.4",
+    "botbuilder": "^3.8.4",
+    "cloudinary": "^1.9.0",
+    "colissimo-ocr": "^1.0.2",
+    "dark-sky": "^1.0.10",
+    "microsoft-adaptivecards": "^0.6.0",
+    "n-ocr": "^0.1.4",
+    "node-fetch": "^1.7.1",
+    "restify": "^5.0.0"
+  }
+}
